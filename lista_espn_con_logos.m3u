@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_wordmark.svg" tvg-name="ESPN HD" group-title="Deportes",ESPN HD
+http://181.115.239.66:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_wordmark.svg" tvg-name="ESPN Perú" group-title="Deportes",ESPN Perú
+http://181.115.239.66:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN2_logo.svg" tvg-name="ESPN 2 HD" group-title="Deportes",ESPN 2 HD
+http://181.115.239.66:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN2_logo.svg" tvg-name="ESPN 2 Perú" group-title="Deportes",ESPN 2 Perú
+http://181.115.239.66:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN3_logo.svg" tvg-name="ESPN 3" group-title="Deportes",ESPN 3
+http://181.115.239.66:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_4_logo.svg" tvg-name="ESPN 4 HD" group-title="Deportes",ESPN 4 HD
+http://181.115.239.66:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_5_logo.svg" tvg-name="ESPN 5 HD" group-title="Deportes",ESPN 5 HD
+http://181.115.239.66:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_6_logo.svg" tvg-name="ESPN 6 HD" group-title="Deportes",ESPN 6 HD
+http://181.115.239.66:8000/play/a06g/index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_7_logo.svg" tvg-name="ESPN 7 HD" group-title="Deportes",ESPN 7 HD
+http://181.115.239.66:8000/play/a05h/index.m3u8
